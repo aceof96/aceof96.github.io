@@ -8,8 +8,8 @@ body{ height:100%;
 		 }
 		 #cover{
     
-    background-image: url("kids.JPG") center center no-repeat fixed;
-    -webkit-background-size: cover;
+    background-image: url("kids.JPG") center center no-repeat;
+    background-size: cover;
     color:white;
     height:100%;
 }
