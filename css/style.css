@@ -8,7 +8,7 @@ body{ height:100%;
 		 }
 		 #cover{
     
-    background: url(kids.JPG) center center no-repeat fixed;
+    background: url(kids.JPG) center center no-repeat;
     background-size: cover;
     
     height:100%;
@@ -33,19 +33,13 @@ p{text-shadow:0px 0px 12px black; }
     }
 @media all and (max-width: 1200px) { /* screen size until 1200px */
     body {
-        font-size: 1.6em; /* 1.5x default size */
+        font-size: 1.5em; /* 1.5x default size */
     
     }
-    @media all and (max-width: 1100px) { /* screen size until 1200px */
-    body {
-        font-size: 2.5em; /* 1.5x default size */
-    
-    }
-    
 
 @media all and (max-width: 992px) { /* screen size until 1200px */
     body {
-        font-size: 1.6em; /* 1.5x default size */
+        font-size: 1.4em; /* 1.5x default size */
     
     }
 }
@@ -57,13 +51,13 @@ p{text-shadow:0px 0px 12px black; }
     }
     @media all and (max-width: 500px) { /* screen size until 500px */
     body {
-        font-size: 1.6em; /* 0.8x default size */
+        font-size: 1.4em; /* 0.8x default size */
         
         }
     }
 @media all and (max-width: 670px) { /* screen size until 500px */
     body {
-        font-size: 1.7em; /* 0.8x default size */
+        font-size: 1.5em; /* 0.8x default size */
         }
     }
 
