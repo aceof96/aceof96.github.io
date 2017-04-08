@@ -45,7 +45,7 @@ p{text-shadow:0px 0px 12px black; }
 }
 @media all and (max-width: 768px) { /* screen size until 1000px */
     body {
-        font-size: 2.2em; /* 1.2x default size */
+        font-size: 1.9em; /* 1.2x default size */
         
         }
     }
