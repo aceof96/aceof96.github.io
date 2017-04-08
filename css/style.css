@@ -8,9 +8,9 @@ body{ height:100%;
 		 }
 		 #cover{
     
-    background: url('kids.JPG') center center no-repeat;
+    background: red;
     background-size: cover;
-    color:white;
+    
     height:100%;
 }
 
